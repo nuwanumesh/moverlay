@@ -81,3 +81,8 @@ This application utilizes the following open-source libraries, which permit clos
 - **Owner/Author:** PyInstaller Development Team
 - **License Type:** GNU General Public License v2.0 (with special bootloader exception for output executables)
 - **URL:** [https://pyinstaller.org/](https://pyinstaller.org/)
+
+## Pillow (PIL)
+- **Owner/Author:** Alex Clark, Contributors, Secret Labs AB, Fredrik Lundh
+- **License Type:** HPND License
+- **URL:** [https://python-pillow.org/](https://python-pillow.org/)
