@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Vasilkoff PAD Make 1.0</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://vasilkoff.com/pad-make</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) is a structured XML format that describes software applications for easy submission to directories.</MASTER_PAD_INFO>
+    <CERTIFIED>N</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Nuwan Umesh</Company_Name>
+    <Company_WebSite_URL>https://u.enzidea.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_Email>nuwanumesh@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>MOverlay  - PDF Master Page Tool</Program_Name>
+    <Program_Version>1.0.0.0</Program_Version>
+    <Program_Release_Month>08</Program_Release_Month>
+    <Program_Release_Day>05</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Graphic Apps::Converters &amp; Optimizers</Program_Category_Class>
+    <Program_OS_Support>WinOther, Windows 8</Program_OS_Support>
+  </Program_Info>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://u.enzidea.com</Application_Info_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/nuwanumesh/moverlay/main/dist_pad/ss_moverlay.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/nuwanumesh/moverlay/main/dist_pad/moverlay.png</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/nuwanumesh/moverlay/releases/download/V1.0.0.0/Moverlay_win_1_0_0_0.zip</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Char_Desc_450>MOverlay - Master Page Tool [KZY] is a lightweight, efficient desktop utility designed to eliminate performance bottlenecks in Variable Data Printing (VDP).  It solves the challenge of combining a static &quot;master&quot; PDF background (containing heavy graphics) with a dynamic &quot;variable&quot; PDF containing changing elements-such as sequential numbering, names, or codes-across hundreds of pages without straining system resources.</Char_Desc_450>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
